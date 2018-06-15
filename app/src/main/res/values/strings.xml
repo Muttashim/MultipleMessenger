@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Multiple Messenger</string>
+    <string name="action_settings">Settings</string>
+    <string name="layout_main_message">Happy Texting</string>
+    <string name="main_message_send">SEND MESSAGE</string>
+</resources>
